@@ -543,6 +543,10 @@ pre {
     padding-left: 16px
 }
 
+.color {
+    color: #f4645f!important;
+}
+
 .post-content ul {
     list-style-type: square
 }
